@@ -1,18 +1,28 @@
-# JavaScript Module Template
-This repository serves as an easy-start template for JavaScript/TypeScript NPM packages. 
+# Ampel Heartbeat Background Process (stopgap)
 
-Simply clone the repository into a directory:
 
-```bash
-$ git clone git@github.com:T99/js-module-template.git my-new-project
+### [Find @T99/stopgap-background on NPM.](https://www.npmjs.com/package/@T99/stopgap-background)
+
+## Table of Contents
+
+ - [Installation](#installation)
+ - [Basic Usage](#basic-usage)
+ - [Documentation](#documentation)
+ - [License](#license)
+
+## Installation
+Install from NPM with
+```
+$ npm install --save @T99/stopgap-background
 ```
 
-And then run the init script:
+## Basic Usage
+Basic usage instructions here.
 
-```bash
-$ ./init.py
-```
+## Documentation
+See the [wiki](https://github.com/ampel-heartbeat/stopgap-background/wiki) for full documentation.
 
-The init script will interactively prompt you for package information and then automatically build the package, correct and fill-in package information, and install the specified NPM packages already included in the provided `package.json`.
+## License
+@T99/stopgap-background is made available under the GNU General Public License v3.
 
-And that's it! Your project is ready to go.
+Copyright (C) 2019 Trevor Sears

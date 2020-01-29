@@ -1,7 +1,7 @@
 {
-	"name": "<name>",
-	"version": "<version>",
-	"description": "<desc>",
+	"name": "@T99/stopgap-background",
+	"version": "0.1.0",
+	"description": "",
 	"main": "js/main",
 	"types": ".d.ts/main",
 	"scripts": {
@@ -10,15 +10,17 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/<github_org>/<base_name>.git"
+		"url": "git+https://github.com/ampel-heartbeat/stopgap-background"
 	},
-	"keywords": [],
+	"keywords": [
+		""
+	],
 	"author": "Trevor Sears <trevorsears.main@gmail.com> (http://trevorsears.io/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/<github_org>/<base_name>/issues"
+		"url": "https://github.com/ampel-heartbeat/stopgap-background/issues"
 	},
-	"homepage": "https://github.com/<github_org>/<base_name>#readme",
+	"homepage": "https://github.com/ampel-heartbeat/stopgap-background#readme",
 	"devDependencies": {
 		"typescript": "latest",
 		"tslint": "latest",
